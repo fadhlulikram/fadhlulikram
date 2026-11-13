@@ -15,7 +15,7 @@ I am an aspiring Data Analyst dedicated to turning raw data into clear, actionab
 
 Here's a list of my tech stack and skills:
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BIGQUERY-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/LOOKER_STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
