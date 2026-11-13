@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank">
+  <a href="https://www.linkedin.com/in/fadhlulikram/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:fadhlulikram13@gmail.com">
