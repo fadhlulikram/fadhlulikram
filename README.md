@@ -7,9 +7,9 @@
   </a>
 </p>
 
-Hello there 👋,
+Hello there,
 
-I am an aspiring Data Analyst dedicated to turning raw data into clear, actionable business insights. I enjoy exploring datasets, uncovering hidden patterns through Exploratory Data Analysis (EDA), and building interactive dashboards. Check out my projects down below, and kindly leave a star if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
+I am an aspiring Data Analyst dedicated to turning raw data into clear, actionable business insights. I enjoy exploring datasets, uncovering hidden patterns through Exploratory Data Analysis (EDA), and building interactive dashboards. Check out my projects down below, and kindly leave a star if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting!
 
 ---
 
